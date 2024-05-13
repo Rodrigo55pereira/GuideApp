@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73cb3066-0149-44b4-9476-389779ffbdb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProgramadorAventureiro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/A&amp;E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/AMC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/AXN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CANAL_BRASIL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CINEMAX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/DISNEY_CHANNEL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/FX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/HBO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/HBO_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/HBO_FAMILY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/HBO_SIGNATURE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/MEGAPIX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/PARAMOUNT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/PRIME_BOX_BRASIL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SONY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SPACE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/STAR_HITS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/STUDIO_UNIVERSAL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/SYFY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TBS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TCM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TELECINE_ACTION.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TELECINE_CULT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TELECINE_FUN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TELECINE_PIPOCA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TELECINE_PREMIUM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TELECINE_TOUCH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TNT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/UNIVERSAL_CHANNEL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/WARNER_TV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/AppIcon76x76@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Base.lproj/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/app/app.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/app/app.zip.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/packages/window_manager/images/ic_chrome_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/packages/window_manager/images/ic_chrome_maximize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/packages/window_manager/images/ic_chrome_minimize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/packages/window_manager/images/ic_chrome_unmaximize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/Base.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/ar.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/da.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/de.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/en.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/es.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/fr.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/hu.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/it.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/ja.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/ko.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/nb-NO.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/nl.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/pt_BR.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/ru.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/tr.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/ur.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/vi.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/zh-Hans.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/DKImagePickerController.bundle/zh-Hant.lproj/DKImagePickerController.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKImagePickerController.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/Base.lproj/DKPhotoGallery.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/en.lproj/DKPhotoGallery.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/DKPhotoGallery.bundle/zh-Hans.lproj/DKPhotoGallery.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/DKPhotoGallery.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SDWebImage.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SDWebImage.framework/SDWebImage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SDWebImage.framework/SDWebImage.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SDWebImage.framework/SDWebImage.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SwiftyGif.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SwiftyGif.framework/SwiftyGif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SwiftyGif.framework/SwiftyGif.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/SwiftyGif.framework/SwiftyGif.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/file_picker.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/file_picker.framework/file_picker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/file_picker.framework/file_picker_ios_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/file_picker.framework/file_picker_ios_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/flutter_native_splash.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/flutter_native_splash.framework/flutter_native_splash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftAVFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreAudio.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreData.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreGraphics.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreImage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreLocation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreMedia.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDarwin.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDispatch.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftMetal.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftObjectiveC.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftPhotos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftQuartzCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftUIKit.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftsimd.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/package_info_plus.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/package_info_plus.framework/package_info_plus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/path_provider_foundation.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/path_provider_foundation.framework/path_provider_foundation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/sensors_plus.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/sensors_plus.framework/sensors_plus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/serious_python_darwin.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/serious_python_darwin.framework/lib/python311.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/serious_python_darwin.framework/lib/site-packages.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/serious_python_darwin.framework/serious_python_darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/shared_preferences_foundation.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/url_launcher_ios.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/url_launcher_ios.framework/url_launcher_ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/Products/Applications/Runner.app/Runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftAVFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreAudio.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreData.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreGraphics.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreImage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreLocation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftCoreMedia.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftDarwin.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftDispatch.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftMetal.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftObjectiveC.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftPhotos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftQuartzCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftUIKit.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/SwiftSupport/iphoneos/libswiftsimd.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/App.framework.dSYM/Contents/Resources/DWARF/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/DKImagePickerController.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/DKImagePickerController.framework.dSYM/Contents/Resources/DWARF/DKImagePickerController" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/DKImagePickerController.framework.dSYM/Contents/Resources/Relocations/aarch64/DKImagePickerController.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/DKPhotoGallery.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/DKPhotoGallery.framework.dSYM/Contents/Resources/DWARF/DKPhotoGallery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/DKPhotoGallery.framework.dSYM/Contents/Resources/Relocations/aarch64/DKPhotoGallery.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/Runner.app.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/Runner.app.dSYM/Contents/Resources/DWARF/Runner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/Runner.app.dSYM/Contents/Resources/Relocations/aarch64/Runner.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/SDWebImage.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/SDWebImage.framework.dSYM/Contents/Resources/DWARF/SDWebImage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/SDWebImage.framework.dSYM/Contents/Resources/Relocations/aarch64/SDWebImage.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/SwiftyGif.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/SwiftyGif.framework.dSYM/Contents/Resources/DWARF/SwiftyGif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/SwiftyGif.framework.dSYM/Contents/Resources/Relocations/aarch64/SwiftyGif.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/file_picker.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/file_picker.framework.dSYM/Contents/Resources/DWARF/file_picker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/file_picker.framework.dSYM/Contents/Resources/Relocations/aarch64/file_picker.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/flutter_native_splash.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/flutter_native_splash.framework.dSYM/Contents/Resources/DWARF/flutter_native_splash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/flutter_native_splash.framework.dSYM/Contents/Resources/Relocations/aarch64/flutter_native_splash.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/package_info_plus.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/package_info_plus.framework.dSYM/Contents/Resources/DWARF/package_info_plus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/package_info_plus.framework.dSYM/Contents/Resources/Relocations/aarch64/package_info_plus.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/path_provider_foundation.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/path_provider_foundation.framework.dSYM/Contents/Resources/DWARF/path_provider_foundation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/path_provider_foundation.framework.dSYM/Contents/Resources/Relocations/aarch64/path_provider_foundation.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/sensors_plus.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/sensors_plus.framework.dSYM/Contents/Resources/DWARF/sensors_plus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/sensors_plus.framework.dSYM/Contents/Resources/Relocations/aarch64/sensors_plus.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/serious_python_darwin.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/serious_python_darwin.framework.dSYM/Contents/Resources/DWARF/serious_python_darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/serious_python_darwin.framework.dSYM/Contents/Resources/Relocations/aarch64/serious_python_darwin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/shared_preferences_foundation.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/shared_preferences_foundation.framework.dSYM/Contents/Resources/DWARF/shared_preferences_foundation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/shared_preferences_foundation.framework.dSYM/Contents/Resources/Relocations/aarch64/shared_preferences_foundation.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/url_launcher_ios.framework.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/url_launcher_ios.framework.dSYM/Contents/Resources/DWARF/url_launcher_ios" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/ipa/Runner.xcarchive/dSYMs/url_launcher_ios.framework.dSYM/Contents/Resources/Relocations/aarch64/url_launcher_ios.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gCHXMElzD4xq1yv8DtilmRGD7v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.aula.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73cb3066-0149-44b4-9476-389779ffbdb9" name="Changes" comment="" />
+      <created>1715194677515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715194677515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
