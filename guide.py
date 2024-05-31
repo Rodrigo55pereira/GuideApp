@@ -15,7 +15,7 @@ def main(page: ft.Page):
 
     def fetch_data():
         try:
-            response = requests.get("http://192.168.100.195:8000/api/v1/guide")
+            response = requests.get("http://192.168.100.15:9000/api/v1/guide")
             response.raise_for_status()
             return response.json()
         except Exception as e:
